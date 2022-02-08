@@ -1,6 +1,6 @@
 # Hello Microverse
 
-> A basic webpage that displays "Hello Microverse"
+> A basic webpage that displays "Hello Microverse" in a H1 tag
 
 ## Built With
 
